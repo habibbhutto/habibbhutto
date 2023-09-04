@@ -1,6 +1,7 @@
-### Hi there 👋
+👋
 
 Hi! I build secure and reliable software systems using modern tools and techniques. 
+
 I have built and scaled software systems for a large user base. I have led, developed, 
 and maintained several critical features for SOC2 and PCI compliant products such as 
 Nintex Workflow Cloud, Xendit Payments, and Ezypay Subscription Payment System. 
