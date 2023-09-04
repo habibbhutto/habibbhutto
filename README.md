@@ -6,7 +6,7 @@ I have built and scaled software systems for a large user base. I have led, deve
 
 Before that I worked on some of the cool stuff like Natural User Interfaces, Body Gesture Recognition Systems and Image Processing to build cool solutions. 
 
-Also, I helped build QTCP a TCP Congestion Control algorithm that performs better than Cubic, Bic and other algorithms.
+Also, I helped build QTCP a TCP Congestion Control Algorithm that performs better than Cubic, Bic and other algorithms.
 
 <!--
 **habibbhutto/habibbhutto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
