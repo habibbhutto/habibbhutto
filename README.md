@@ -1,4 +1,4 @@
-### Hi there 👋 
+### Hi! 👋 
 
 I build secure and reliable software systems using modern tools and techniques. 
 
