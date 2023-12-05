@@ -2,7 +2,7 @@
 
 I build secure and reliable software systems using modern tools and techniques. 
 
-I have built and scaled software systems for a large user base. I have led, developed, and maintained several critical features Nintex Workflow Cloud, Xendit Payments, and Ezypay Subscription Payment System. 
+I have built and scaled software systems for a large user base. I have led, developed, and maintained several critical features for Nintex Workflow Cloud, Xendit Payments, and Ezypay Subscription Payment System. 
 
 Before that I worked on some of the cool stuff like Natural User Interfaces, Body Gesture Recognition Systems and Image Processing to build cool solutions. 
 
